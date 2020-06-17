@@ -1,3 +1,12 @@
 
 http://www.jybase.net/biancheng/20120204763.html
 
+实战DeviceIoControl系列：
+
+通过API访问设备驱动程序： https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947863.html
+获取设备参数： https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947850.html
+制作磁盘镜像文件： https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947866.html
+获取磁盘详细信息： https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947869.html
+列举已安装设备：https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947874.html
+访问物理端口： https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947877.html
+读写磁盘：https://www.cnblogs.com/lzjsky/archive/2011/01/30/1947882.html
